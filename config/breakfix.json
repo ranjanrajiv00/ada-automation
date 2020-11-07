@@ -1,0 +1,14 @@
+{
+    "default": {
+        "timeout": 60000,
+        "page": {
+            "viewport": {
+                "width": 320,
+                "height": 480
+            }
+        }
+    },
+    "urls": [
+        "https://breakfix-outlet.r.loft.com/?BYPASS=true"
+    ]
+}
